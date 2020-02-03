@@ -52,7 +52,7 @@ However, where this model falls short is in its very features. One of the featur
 Although this project was a very fruitful experience, I was a little disappointed in my failure to foresee this fatal flaw.
 
 ## Sources
+- Alice Zhao - *Natural Language Processing in Python* https://github.com/adashofdata/nlp-in-python-tutorial
 - Lavanya Gupta *Google Play Store Apps web scraped data of 10k Play Store apps* https://www.kaggle.com/lava18/google-play-store-apps
 - *Mobile vs. Desktop Usage* https://www.broadbandsearch.net/blog/mobile-desktop-internet-usage-statistics
-- Alice Zhao - *Natural Language Processing in Python* https://github.com/adashofdata/nlp-in-python-tutorial
 
