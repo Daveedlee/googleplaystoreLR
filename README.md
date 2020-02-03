@@ -8,9 +8,12 @@
 
 ## Introduction
 Like many people, iPhone 3Gs was the first smartphone I've ever purchased. It was indeed revolutionary, but it was never my go-to device for web surfing; the screen was small and functions were much limited compared to a PC or Mac. Fast-forwarding 11 years, my surfing habit did not change drastically despite a miraculous increase in the computing power on mobile devices. That's why I was perplexed when came across the following chart:
+
 <img src="images/intro2.jpg" width="800" height="450">
+
 The chart above alleges that worldwide internet traffic is comprised of more mobile devices than conventional PC/Mac. My immediate reaction was 'that can't be right.' Then, I became more curious about exploring what people do on their smartphone; the web traffic's only one component of smartphone usage. One question led to another, and naturally, I arrived at data sciency question: what Apps do they use, and would it be possible to assemble a model that predict the number of installs given features?
-/
+
+
 Let's find out.
 
 
