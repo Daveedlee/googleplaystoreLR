@@ -19,11 +19,9 @@ Let's find out.
 
 
 ## Datasets
-Google Play Store dataset from Kaggle(credit: Lavanya Gupta)
+Google Play Store dataset from Kaggle
 - googleplaystore.csv
 - googleplaystore_user_reviews.csv
-
-link: https://www.kaggle.com/lava18/google-play-store-apps
 
 
 ## Metrics to consider: googleplaystore_user_reviews.csv
